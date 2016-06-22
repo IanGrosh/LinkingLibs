@@ -1,0 +1,7 @@
+*
+!*.c
+!*.py
+!*.pl
+!*.pm
+!make
+!.gitignore
