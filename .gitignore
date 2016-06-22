@@ -5,3 +5,4 @@
 !*.pm
 !make
 !.gitignore
+!README.txt
